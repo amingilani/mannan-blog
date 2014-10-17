@@ -1,5 +1,8 @@
 title:            "Ali Mannan Tirmizi"
-url:              https://mannantirmizi.github.io
+owner:
+  name: Ali Mannan Tirmizi
+  avatar: /images/avatar.jpg
+url:              0.0.0.0:4000
 permalink:        pretty
 highlighter:      pygments
 markdown:         kramdown
