@@ -1,10 +1,10 @@
-title:            "@muanchiou"
-url:              http://muan.co
+title:            "Ali Mannan Tirmizi"
+url:              https://mannantirmizi.github.io
 permalink:        pretty
 highlighter:      pygments
 markdown:         kramdown
-google_analytics: UA-21332781-7
-timezone:         Europe/London
+google_analytics:
+timezone:         Asia/Karachi
 paginate: 5
 gems:
   - jemoji
